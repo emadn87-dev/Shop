@@ -11,10 +11,6 @@ Experience the site live at 👉 [Click me](https://shop-emadn87-dev.netlify.app
 
 ![Store Preview](image/screenshot.png)
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Demo](https://img.shields.io/badge/Live%20Demo-View%20Here-brightgreen.svg)](https://shop-audio.netlify.app)
-[![Stars](https://github.com/emadn87-dev/shop)](https://github.com/emadn87-dev/shop)
-
 ## Description 📝
 A modern, responsive e-commerce template specializing in premium audio equipment. Built with the latest web technologies to provide an exceptional shopping experience.
 
