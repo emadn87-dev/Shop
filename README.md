@@ -7,9 +7,12 @@ A sleek front-end project crafted with love using HTML, CSS, JS.
 
 Experience the site live at 👉 [Click me](https://shop-emadn87-dev.netlify.app/)
 
+
 ## Demo Preview 📸
 
+
 ![Store Preview](image/screenshot.png)
+
 
 ## Description 📝
 A modern, responsive e-commerce template specializing in premium audio equipment. Built with the latest web technologies to provide an exceptional shopping experience.
